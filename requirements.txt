@@ -1,0 +1,15 @@
+langserve
+langchain
+langchain_community
+streamlit
+fastapi
+sse_starlette
+uvicorn
+requests
+chromadb
+faiss-cpu
+pypdf
+arxiv
+wikipedia
+groq
+langchainhub
